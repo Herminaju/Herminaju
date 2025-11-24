@@ -58,13 +58,6 @@ I enjoy solving business problems with clean data modeling, automation, and comp
 
 ---
 
-## 🚀 What I’m Currently Working On
-- Expanding portfolio with advanced Python analytics & machine learning work  
-- Building a Power BI + SQL automation project for supply chain KPI optimization  
-- Enhancing GitHub with more end-to-end analytics case studies
-
----
-
 ## 📬 Connect with Me
 
 🌐 **Portfolio:** https://portfolio-app-b4cbf.web.app/  
