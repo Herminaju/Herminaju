@@ -64,7 +64,7 @@ I enjoy solving business problems with clean data modeling, automation, and comp
 
 [![Mylinkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hermina-judith-chinnappan/)
 
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](herminajudith7@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](herminajudith7@gmail.com/)
 
 ---
 
