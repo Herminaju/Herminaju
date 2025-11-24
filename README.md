@@ -68,7 +68,7 @@ I enjoy solving business problems with clean data modeling, automation, and comp
 ## 📬 Connect with Me
 
 🌐 **Portfolio:** https://portfolio-app-b4cbf.web.app/  
-💼 **LinkedIn:** https://www.linkedin.com/in/hermina-judith-chinnappan/  
+💼 **LinkedIn:** [![Mylinkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/mycline-shareena-j-9b8128168?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BavQPTDhuREaVAEKjPhKVlQ%3D%3D](https://www.linkedin.com/in/hermina-judith-chinnappan/))   
 📧 **Email:** herminajudith7@gmail.com  
 🐙 **GitHub:** https://github.com/Herminaju  
 
