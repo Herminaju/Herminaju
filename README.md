@@ -60,11 +60,11 @@ I enjoy solving business problems with clean data modeling, automation, and comp
 
 ## 📬 Connect with Me
 
-🌐 **Portfolio:** https://portfolio-app-b4cbf.web.app/  
+[![Portfolio](https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white)](https://portfolio-app-b4cbf.web.app/) 
 
 [![Mylinkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hermina-judith-chinnappan/)
 
-📧 **Email:** herminajudith7@gmail.com
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](herminajudith7@gmail.com)
 
 ---
 
